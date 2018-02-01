@@ -1,0 +1,1 @@
+La idea de la ejercitacion es que los alumnos unicamente usando flexbox acomoden los elementos para que qued igual que el boceto.
